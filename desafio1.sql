@@ -108,7 +108,7 @@ INSERT INTO SpotifyClone.musicas (nome, album_id, duracao_segundos) VALUES
 ('Rock His Everything', 4, 223),
 ('Home Forever', 4, 231),
 ('Diamond Power', 4, 241),
-('Lets Be Silly', 4, 132),
+("Let's Be Silly", 4, 132),
 ('Thang Of Thunder', 5, 240),
 ('Words Of Her Life', 5, 185),
 ('Without My Streets', 5, 176),
